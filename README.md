@@ -41,7 +41,22 @@ Descarga la última versión desde la sección [**Releases**](../../releases/lat
 
 ## 📸 Capturas de pantalla
 
-*Próximamente*
+
+- **Inicio**:
+  ![Home](./home.png)
+
+- **Limpieza del Sistema**:
+  ![Limpieza](./limpieza-del-sistema.png)
+
+- **Gestor de Juegos**:
+  ![Juegos](./mis-juegos.png)
+
+- **Desinstalador Limpio**:
+  ![Desinstalador](./desinstalador-limpio.png)
+
+- **Analizador**:
+  ![Analizador](./analizador-de-disco.png)
+
 
 ---
 
