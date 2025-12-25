@@ -12,6 +12,7 @@
 
 ### ✨ Características principales
 
+- 🧹 **Desinstalador Limpio**: Elimina apps sin dejar rastro. Detecta archivos huérfanos que los desinstaladores normales olvidan.
 - 🐳 **Limpieza de Docker**: Elimina imágenes, volúmenes y contenedores sin usar.
 - 📦 **Cachés de desarrollo**: npm, Gradle, Maven, pip, Bun y más.
 - 🎮 **Gestor de Juegos**: Detecta instalaciones de Steam, Epic Games, EA y Amazon Games.
