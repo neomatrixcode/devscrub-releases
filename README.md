@@ -28,7 +28,7 @@ Descarga la última versión desde la sección [**Releases**](../../releases/lat
 | Versión | Descripción | Descarga |
 |---------|-------------|----------|
 | **DevScrub Free** | Versión gratuita con trial de 60 días para funciones Pro | [Descargar](../../releases/latest) |
-| **DevScrub Pro** | Versión completa sin restricciones | [Comprar en Ko-fi](https://ko-fi.com/neomatrixcode) |
+| **DevScrub Pro** | Versión completa sin restricciones | [Comprar en Ko-fi](https://ko-fi.com/s/3477e1ca5d) |
 
 ---
 
