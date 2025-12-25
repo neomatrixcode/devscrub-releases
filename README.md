@@ -45,6 +45,30 @@ Descarga la última versión desde la sección [**Releases**](../../releases/lat
 
 ---
 
+## ⚠️ Solución de problemas
+
+### "Windows protegió su PC" (SmartScreen)
+
+Al ejecutar el instalador, Windows puede mostrar una advertencia de SmartScreen. Esto es **normal** para aplicaciones nuevas que aún no tienen una reputación establecida.
+
+**Para continuar con la instalación:**
+
+1. Haz clic en **"Más información"**
+2. Luego haz clic en **"Ejecutar de todos modos"**
+
+<details>
+<summary>📷 Ver captura de pantalla</summary>
+
+Después de hacer clic en "Más información", verás el botón "Ejecutar de todos modos":
+
+![SmartScreen](./instalar.png)
+
+</details>
+
+> **Nota:** Si prefieres evitar este aviso, puedes adquirir la versión Pro desde la [Microsoft Store](#) (próximamente), la cual está firmada digitalmente por Microsoft.
+
+---
+
 ## 🤝 Soporte
 
 ¿Encontraste un bug o tienes una sugerencia?
@@ -61,5 +85,5 @@ Este software es **freeware**. La versión Free incluye un periodo de prueba de 
 ---
 
 <p align="center">
-  Hecho con ❤️ por <a href="https://ko-fi.com/neomatrixcode">NeoMatrixCode</a>
+  Hecho con ❤️ por <a href="https://ko-fi.com/neomatrixcode">Neomatrix</a>
 </p>
