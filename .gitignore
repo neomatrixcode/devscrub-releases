@@ -1,0 +1,12 @@
+# Build artifacts (we create releases manually, not from this repo)
+*.exe
+*.msi
+*.msix
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
